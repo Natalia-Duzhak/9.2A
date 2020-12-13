@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest9.2А.cpp
+     Создается библиотека C:\Users\Dyzak\Desktop\Я СТУДЕНТ\лабораторна 9\Project9.2А\Debug\UnitTest9.2А.lib и объект C:\Users\Dyzak\Desktop\Я СТУДЕНТ\лабораторна 9\Project9.2А\Debug\UnitTest9.2А.exp
+LINK : warning LNK4232: имя UnitTest9.2А.dll содержит не ASCII символы, DLL нельзя будет загрузить в систему с кодовой страницей ANSI, отличной от 1251
+  UnitTest9.2А.vcxproj -> C:\Users\Dyzak\Desktop\Я СТУДЕНТ\лабораторна 9\Project9.2А\Debug\UnitTest9.2А.dll
